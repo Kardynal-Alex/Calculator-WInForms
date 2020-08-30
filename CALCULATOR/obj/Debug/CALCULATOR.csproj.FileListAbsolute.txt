@@ -1,0 +1,11 @@
+D:\C_sharp(WinForms)\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe.config
+D:\C_sharp(WinForms)\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe
+D:\C_sharp(WinForms)\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.pdb
+D:\C_sharp(WinForms)\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Form1.resources
+D:\C_sharp(WinForms)\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Properties.Resources.resources
+D:\C_sharp(WinForms)\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.GenerateResource.cache
+D:\C_sharp(WinForms)\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.CoreCompileInputs.cache
+D:\C_sharp(WinForms)\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.exe
+D:\C_sharp(WinForms)\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.pdb
+D:\C_sharp(WinForms)\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Form2.resources
+D:\C_sharp(WinForms)\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csprojAssemblyReference.cache
